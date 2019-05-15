@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notificatios</string>
+    <string name="Description_txt">Description</string>
+    <string name="notification_example_txt">Notification Example</string>
+</resources>
